@@ -15,5 +15,22 @@
     "preview": {},
     "last_modified": "2021-12-12T03:54:59-03:00",
     "input_file": {}
+  },
+  {
+    "path": "posts/2021-12-12-analise-da-base-rais/",
+    "title": "Análise da base RAIS",
+    "description": "Essa base tem como objetivo analisar os salários...",
+    "author": [
+      {
+        "name": "Tiago Vieira",
+        "url": {}
+      }
+    ],
+    "date": "2021-12-12",
+    "categories": [],
+    "contents": "\r\nEste é o meu primeiro projeto no meu portfólio.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-12-12T04:22:26-03:00",
+    "input_file": "analise-da-base-rais.knit.md"
   }
 ]

@@ -1,0 +1,22 @@
+---
+title: "Análise da base RAIS"
+description: |
+  Essa base tem como objetivo analisar os salários...
+author:
+  - name: Tiago Vieira
+date: 2021-12-12
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Este é o meu primeiro projeto no meu portfólio.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
+
